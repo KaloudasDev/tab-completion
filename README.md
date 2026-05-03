@@ -214,12 +214,12 @@ MIT © [KaloudasDev](https://github.com/KaloudasDev)
 
 ## Contributing
 
-Contributions are welcome. Please ensure:
-- Code maintains zero external dependencies beyond Spigot API
-- All suggestion levels implement prefix filtering
-- Permission checks precede all suggestion generation
-- Stream operations use appropriate null safety
-- Documentation updated for new features
+Contributions are welcome. Please ensure:  
+1. Code maintains zero external dependencies beyond Spigot API  
+2. All suggestion levels implement prefix filtering  
+3. Permission checks precede all suggestion generation  
+4. tream operations use appropriate null safety
+5. Documentation updated for new features
 
-- GitHub: [KaloudasDev](https://github.com/KaloudasDev)
-- Project: [tab-completion](https://github.com/KaloudasDev/tab-completion)
+GitHub: [KaloudasDev](https://github.com/KaloudasDev)  
+Project: [tab-completion](https://github.com/KaloudasDev/tab-completion)
