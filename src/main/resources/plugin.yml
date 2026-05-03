@@ -1,0 +1,15 @@
+﻿name: TabCompletionFramework
+version: 1.0.0
+main: com.kaloudasdev.tabframework.TabFrameworkPlugin
+api-version: 1.16
+author: KaloudasDev
+description: Tab completion framework for Spigot/Paper plugins
+commands:
+  tab:
+    description: Main command with tab completion
+    usage: /tab <ban|unban|kick|reload>
+    aliases: [tcomplete]
+permissions:
+  tabframework.admin:
+    description: Full access to all commands
+    default: op
