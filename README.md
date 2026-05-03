@@ -208,10 +208,6 @@ The `getActiveBans()` method filters expired entries and returns the current ban
 | Purpur | 1.16.5 – 1.21.4 |
 | Arclight | 1.16.5 – 1.20.4 |
 
-## License
-
-MIT © [KaloudasDev](https://github.com/KaloudasDev)
-
 ## Contributing
 
 Contributions are welcome. Please ensure:  
@@ -221,5 +217,6 @@ Contributions are welcome. Please ensure:
 4. tream operations use appropriate null safety
 5. Documentation updated for new features
 
-GitHub: [KaloudasDev](https://github.com/KaloudasDev)  
-Project: [tab-completion](https://github.com/KaloudasDev/tab-completion)
+## License
+
+MIT © [KaloudasDev](https://github.com/KaloudasDev)
