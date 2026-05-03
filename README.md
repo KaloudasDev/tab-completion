@@ -18,15 +18,6 @@ Reference implementation demonstrating contextual argument suggestion for Minecr
 - **Zero Dependencies** - Uses only native Spigot/Paper API
 - **No Configuration Required** - Works out of the box
 
-## Supported Suggestion Levels
-
-| Depth | State | Provider Strategy |
-|-------|-------|-------------------|
-| 1 | Primary command selection | Static enumeration with prefix filtering |
-| 2 | Target resolution | Dynamic player enumeration via Bukkit API |
-| 2 (unban) | Ban registry lookup | Persistent storage query with expiration filtering |
-| 3 | Duration specification | Predefined token set with temporal unit parsing |
-
 ## Supported Commands
 
 | Command | Description | Suggestion Levels |
