@@ -6,7 +6,7 @@
 [![Maven](https://img.shields.io/badge/Maven-3.9%2B-C71A36?logo=apachemaven&logoColor=white)](https://maven.apache.org/)
 [![Spigot](https://img.shields.io/badge/Spigot-1.16.5--1.21-orange?logo=spigotmc&logoColor=white)](https://www.spigotmc.org/)
 
-A production-grade reference implementation demonstrating contextual argument suggestion systems for Minecraft Spigot/Paper plugins. Implements the Bukkit TabCompleter interface with multi-level parsing strategies, dynamic content providers, and permission-aware filtering.
+Reference implementation demonstrating contextual argument suggestion for Minecraft Spigot/Paper plugins. Implements Bukkit TabCompleter with multi-level parsing, dynamic providers, and permission-aware filtering.
 
 ## Features
 
